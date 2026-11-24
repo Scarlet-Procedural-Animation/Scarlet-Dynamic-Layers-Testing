@@ -1,3 +1,6 @@
 [submodule "Scarlet-Dynamic-Layers"]
 	path = Scarlet-Dynamic-Layers
 	url = https://github.com/Scarlet-Procedural-Animation/Scarlet-Dynamic-Layers.git
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/doctest/doctest.git
