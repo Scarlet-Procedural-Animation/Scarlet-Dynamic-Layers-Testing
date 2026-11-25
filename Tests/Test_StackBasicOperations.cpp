@@ -1,7 +1,6 @@
 #include "StackBasicOperations.h"
 #include "LayerMono.h"
 
-#define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #include "doctest.h"
 
 using namespace DynamicLayers;
